@@ -147,7 +147,7 @@
             <button type="submit">Send Message</button>
           </form>
         </div>
-      </aside>
+    
     </div>
    
     <footer>
@@ -157,7 +157,7 @@
  
   <div class="lightbox" id="lightbox">
     <img src="" alt="expanded" />
-  </div>
+
  
   <script>
     const lightbox = document.getElementById('lightbox');
@@ -169,5 +169,3 @@
     lightbox.addEventListener('click', () => {
       lightbox.classList.remove('active');});
   </script>
-</body>
-</html>
