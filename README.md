@@ -153,7 +153,7 @@
     <footer>
       GOD BLESS!!
       </footer>
-  </div>
+ 
  
   <div class="lightbox" id="lightbox">
     <img src="" alt="expanded" />
